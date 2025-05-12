@@ -20,6 +20,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+-TikTok: auto-scroll, panel at bottom
+-Instagram: ability to have mixed vertical and horizontal pictures, panel at bottom
+-Messages: easy to find icons, code from messages appears on safari
+
+App Ideas:
+Virtual Travel Guide App that helps plan trips to landmarks and cities around the world, complete with flights, hotels, images of landmarks, and itinerary automatically generated. It should also include many interactive elements.
 
 ## Notes
 
